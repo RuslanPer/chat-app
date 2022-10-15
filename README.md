@@ -5,3 +5,5 @@
 - **TypeScript**
 - **React**
 - **WebSocket**
+
+![chat](./src/assets/chat.png)
